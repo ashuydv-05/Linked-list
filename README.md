@@ -1,5 +1,5 @@
 # Linked-list
-# Experiment 17 To study and implement Linked List
+# To study and implement Linked List
 # Aim: -
 To run and execute a menu style code of linked list
 
